@@ -1,3 +1,3 @@
 const m = "Mercado"
-
-print(m)
+const d = "Pagamento"
+console.log(m, d)
