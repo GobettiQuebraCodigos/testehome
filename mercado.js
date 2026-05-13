@@ -1,3 +1,3 @@
 const m = "Mercado"
-
-print(m)
+const t = "T grande"
+console.log(m, t)
