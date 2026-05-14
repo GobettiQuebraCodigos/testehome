@@ -2,3 +2,4 @@ const m = "Mercado"
 const t = "T grande"
 console.log(m, t)
 const p = 10
+console.log(p)
